@@ -2,7 +2,7 @@
  
 <h2>💬Descrição:</h2>
 
-Simples jogo do Mario, desenvolvido com HTML, CSS e JavaScript. Apertando qualquer tecla, o Mario deve pular os canos.
+Simples jogo do Mario, desenvolvido com HTML, CSS e JavaScript. Apertando qualquer tecla, o Mario deve pular os canos :D
 
 <h2>📱Tela do projeto</h2>
 
